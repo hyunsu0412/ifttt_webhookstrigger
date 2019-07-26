@@ -4,18 +4,18 @@ ifttt myifttt;
 
 // Replace with your SSID and Password
 //----------------------------------------------------------------------
-const char* ssid     = "hyunsu's spot in arduino";
-const char* password = "arduino12";
+const char* ssid     = "";
+const char* password = "";
 //----------------------------------------------------------------------
 
 // Replace with your unique IFTTT WebHooks Token
 //----------------------------------------------------------------------
-const char* token = "bcq3KeQ8jgzmuQzc-b0oDk";
+const char* token = "";
 //----------------------------------------------------------------------
 
 //Replace with your unique WebHooks trigger
 //----------------------------------------------------------------------
-const char* trigger_name = "sw_on";
+const char* trigger_name = "";
 //----------------------------------------------------------------------
 
 void setup() 
