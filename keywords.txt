@@ -1,0 +1,3 @@
+ifttt	KEYWORD1
+connectWifi	KEYWORD2
+webHooksTriggerRequest	KEYWORD2

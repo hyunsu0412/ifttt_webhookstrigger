@@ -1,21 +1,21 @@
-#include "ifttt.h"
+#include <ifttt.h>
 
 ifttt myifttt;
 
 // Replace with your SSID and Password
 //----------------------------------------------------------------------
-const char* ssid     = "";
-const char* password = "";
+const char* ssid     = "hyunsu's spot in arduino";
+const char* password = "arduino12";
 //----------------------------------------------------------------------
 
 // Replace with your unique IFTTT WebHooks Token
 //----------------------------------------------------------------------
-const char* token = "";
+const char* token = "bcq3KeQ8jgzmuQzc-b0oDk";
 //----------------------------------------------------------------------
 
 //Replace with your unique WebHooks trigger
 //----------------------------------------------------------------------
-const char* trigger_name = "";
+const char* trigger_name = "sw_on";
 //----------------------------------------------------------------------
 
 void setup() 
